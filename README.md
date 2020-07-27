@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a data visualization project using 3rd party APIs
 - 🌱 I’m currently learning D3.JS and Node
 
-[![Kirsten's github stats](https://github-readme-stats.vercel.app/api?username=lululand&show_icons=true&theme=cobalt)](https://github.com/lululand/github-readme-stats)
+[![Kirsten's github stats](https://github-readme-stats.vercel.app/api?username=lululand&show_icons=true&theme=cobalt&count_private=true&hide_title=true)](https://github.com/lululand/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lululand&layout=compact)](https://github.com/lululand/github-readme-stats)
 
 <!--
