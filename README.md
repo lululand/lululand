@@ -1,4 +1,4 @@
-### Hi 👋 I'm [Kirsten](https://https://lululand.github.io/a2lulu/) (she/her)
+### Hi 👋 I'm [Kirsten](https://lululand.github.io/a2lulu/) (she/her)
 
 - 🔭 I’m currently working on a data visualization project using 3rd party APIs
 - 🌱 I’m currently learning D3.JS and Node
