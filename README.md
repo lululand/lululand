@@ -3,11 +3,13 @@
 - 🔭 I’m currently working on a data visualization project using 3rd party APIs
 - 🌱 I’m currently learning D3.JS and Node
 
-[![Kirsten's github stats](https://github-readme-stats.vercel.app/api?username=lululand&show_icons=true&theme=cobalt&count_private=true&hide_title=true)](https://github.com/lululand/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lululand&layout=compact)](https://github.com/lululand/github-readme-stats)
+[![Kirsten's github stats](https://github-readme-stats.vercel.app/api?username=lululand&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues)](https://github.com/lululand/github-readme-stats)
 
 <!--
 **lululand/lululand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+&hide=stars,commits,prs,issues,contribs
 
 Here are some ideas to get you started:
 
