@@ -1,7 +1,8 @@
-### Hi 👋 I'm [Kirsten](https://lululand.github.io/a2lulu/) (she/her)
+### Hi 👋 I'm [Kirsten](https://lululand.github.io/a2lulu/) 
 
-- 🌱 I’m currently learning/working on projects with React, Hooks/Redux, D3.JS, and Node 
-- 🔭 Next in my excited-to-learn queue: Webpack, Web Components, Stencil.js, SASS/LESS
+- 🌱 I’m currently learning/working on projects using React, Hooks, React-Redux, Thunk, and D3.JS
+- 🔭 Next up in my learning queue: Webpack, GraphQL, SASS/LESS
+- 🌈 Pronouns: she/her
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lululand&layout=compact)](https://github.com/lululand/github-readme-stats)
 [![Kirsten's github stats](https://github-readme-stats.vercel.app/api?username=lululand&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues)](https://github.com/lululand/github-readme-stats)
