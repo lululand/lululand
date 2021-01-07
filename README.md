@@ -1,10 +1,11 @@
-### Hi 👋 I'm [Kirsten](https://lululand.github.io/a2lulu/) 
+## Hi 👋 I'm [Kirsten](https://lululand.github.io/a2lulu/) (she/her)
 
-- 🌱 I’m building projects using JavaScript, React, Hooks, React-Redux, Thunk, and D3.JS
-- 🤓 Current learning: Colt Steele's [Udemy class](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) on Algorithms & Data Structures 
-- ⚡ Plus concurrent practice of above learning at [AlgoExpert](https://www.algoexpert.io/questions)
-- 🔭 Next up in my learning queue: Jest/Enzyme, Webpack, GraphQL, SASS/LESS
-- 🌈 Pronouns: she/her
+- 🌱 I love to build projects with JavaScript, Node.js, React, and D3.JS.
+- 🤓 Current Udemy class: [JavaScript Algorithms & Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) with Colt Steele
+- ⚡ Solving problems and learning Systems Design Fundamentals at [AlgoExpert](https://www.algoexpert.io/questions)  
+- 🔭 Excited to learn next: Jest/Enzyme, Webpack, GraphQL, SASS/LESS  
+  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lululand&layout=compact)](https://github.com/lululand/github-readme-stats)
 [![Kirsten's github stats](https://github-readme-stats.vercel.app/api?username=lululand&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues)](https://github.com/lululand/github-readme-stats)
