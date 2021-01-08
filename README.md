@@ -2,7 +2,7 @@
 
 - 🌱 I love to build projects with JavaScript, Node.js, React, and D3.JS.
 - 🤓 Current Udemy class: [JavaScript Algorithms & Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) with Colt Steele
-- ⚡ Solving problems and learning Systems Design Fundamentals at [AlgoExpert](https://www.algoexpert.io/questions)  
+- ⚡ Sharpening my JS problem-solving skills and learning Systems Design Fundamentals at [AlgoExpert](https://www.algoexpert.io/questions)  
 - 🔭 Excited to learn next: Jest/Enzyme, Webpack, GraphQL, SASS/LESS  
   
 
