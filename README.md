@@ -1,9 +1,10 @@
 ## Hi 👋 I'm [Kirsten](https://lululand.github.io/a2lulu/) (she/her)
 
-- 🌱 I love to build projects with JavaScript, Node.js, React, and D3.JS.
-- 🤓 Current Udemy class: [JavaScript Algorithms & Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) with Colt Steele
+- 🔨 I love to build projects with JavaScript, Node.js, React, and D3.JS.
+- 📚 I ❤️ learning, recently finished class: [JavaScript Algorithms & Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) with Colt Steele
+- 👀 Current Udemy class: [Graphql for Beginners With Javascript](https://www.udemy.com/course/graphql-for-beginners-with-javascript/) with James Moore
 - ⚡ Sharpening my JS problem-solving skills and learning Systems Design Fundamentals at [AlgoExpert](https://www.algoexpert.io/questions)  
-- 🔭 Excited to learn next: Jest/Enzyme, Webpack, GraphQL, SASS/LESS  
+- 🔭 Excited to learn next: Jest/Enzyme, Webpack, SASS/LESS, NestJS
   
 
 
