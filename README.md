@@ -11,9 +11,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lululand&layout=compact)](https://github.com/lululand/github-readme-stats)
 [![Kirsten's github stats](https://github-readme-stats.vercel.app/api?username=lululand&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues)](https://github.com/lululand/github-readme-stats)
 
-<!-- <img
+ <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lululand&skills=JavaScript,CSS,HTML,JSON,Java,SCSS,Vue,React&show-other-skills=true"
-/> -->
+/> 
 
 <!--
 **lululand/lululand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
