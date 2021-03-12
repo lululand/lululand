@@ -1,9 +1,9 @@
 ## Hi 👋 I'm [Kirsten](https://lululand.github.io/a2lulu/) (she/her)
 
 - 🔨 I love building projects with JavaScript, Node.js, React, and D3.JS.
-- 📚 I ❤️ learning - recently finished class: [JavaScript Algorithms & Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) with Colt Steele
-- 👀 Current Udemy class: [Graphql for Beginners With Javascript](https://www.udemy.com/course/graphql-for-beginners-with-javascript/) with James Moore
-- ⚡ I sharpen my JS problem-solving skills <!-- and learn Systems Design Fundamentals --> at [AlgoExpert](https://www.algoexpert.io/questions)  
+- 📚 I ❤️ learning - most recent class: [JavaScript Algorithms & Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) with Colt Steele
+- 👀 New class I'm loving: [Get it Right in Black & White](https://www.youtube.com/playlist?list=PL9yYRbwpkyksegmB9HKX8YWP1DMZyZC9b) a D3 and Data Visualiation livestream course with [Curran Kelleher](https://vizhub.com/blog/2021/02/20/new-livestream-series-get-it-right-in-black-and-white/)
+- ⚡ Sharpening my JS algorithm skills <!-- and learn Systems Design Fundamentals --> at [AlgoExpert](https://www.algoexpert.io/questions)  
 - 🔭 Excited to learn next: Jest/Enzyme, Webpack, SASS/LESS, NestJS
   
 
