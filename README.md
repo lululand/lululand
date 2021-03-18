@@ -1,10 +1,11 @@
 ## Hi 👋 I'm [Kirsten](https://lululand.github.io/a2lulu/) (she/her)
 
-- 🔨 I love building projects with JavaScript, Node.js, React, and D3.JS.
+- 🛠️ I love building projects with JavaScript, Node.js, React, and D3.JS. Java is my first love. 
 - 📚 I ❤️ learning - most recent class: [JavaScript Algorithms & Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) with Colt Steele
-- 👀 New class I'm loving: [Get it Right in Black & White](https://www.youtube.com/playlist?list=PL9yYRbwpkyksegmB9HKX8YWP1DMZyZC9b) a D3 and Data Visualiation livestream course with [Curran Kelleher](https://vizhub.com/blog/2021/02/20/new-livestream-series-get-it-right-in-black-and-white/)
-- ⚡ Sharpening my JS algorithm skills <!-- and learn Systems Design Fundamentals --> at [AlgoExpert](https://www.algoexpert.io/questions)  
+- 👀 New class I'm loving: [Get it Right in Black & White](https://www.youtube.com/playlist?list=PL9yYRbwpkyksegmB9HKX8YWP1DMZyZC9b) D3 & Data Viz livestream course with [Curran Kelleher](https://vizhub.com/blog/2021/02/20/new-livestream-series-get-it-right-in-black-and-white/)
+- 💪🏻 Strengthening my JS Data Structure & Algorithm skills <!-- and learn Systems Design Fundamentals --> at [AlgoExpert](https://www.algoexpert.io/questions)  
 - 🔭 Excited to learn next: Jest/Enzyme, Webpack, SASS/LESS, NestJS
+-  When I'm not coding 🧵 🧶 ✂️ 🖼️ 🎨 📖 🍳 📺 🏕️ 🌾 ♟️ ✈️ 
   
 
 
@@ -16,13 +17,13 @@
 /> 
 
 <!--
-**lululand/lululand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lululand/lululand** is a ✨ _special_ ✨  ⚡ repository because its `README.md` (this file) appears on your GitHub profile.
 
 &hide=stars,commits,prs,issues,contribs
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...  🧰 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -30,6 +31,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- - 🔪
 
 Hi, I'm Bobby!
 🔭 I’m a product manager at GitHub
