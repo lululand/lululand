@@ -3,7 +3,7 @@
 - 🛠️ I love building projects with JavaScript, Java, Node.js, and React. 
 - 📚 Currently studying: Selenium, Cypress, Jest/Enzyme, Webpack, SASS/LESS 
 - 👀 Livestream I'm loving: [Get it Right in Black & White](https://www.youtube.com/playlist?list=PL9yYRbwpkyksegmB9HKX8YWP1DMZyZC9b) D3.js & Data Viz course with [Curran Kelleher](https://vizhub.com/blog/2021/02/20/new-livestream-series-get-it-right-in-black-and-white/)
-- 💪🏻 Strengthening my JS Data Structure & Algorithm skills <!-- and learn Systems Design Fundamentals --> at [AlgoExpert](https://www.algoexpert.io/questions)  
+- 💪🏻 Strengthening my Data Structure & Algorithm skills + Systems Design Fundamentals at [AlgoExpert](https://www.algoexpert.io/questions)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lululand&layout=compact)](https://github.com/lululand/github-readme-stats)
