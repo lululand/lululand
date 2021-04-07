@@ -1,8 +1,8 @@
 ## Hi 👋 I'm [Kirsten](https://lululand.github.io/a2lulu/) (she/her)
 
-- 🛠️ I love building projects with Java and JavaScript ecosystems. 
-- 📚 Currently studying: Selenium, Cypress, Jest/Enzyme, Webpack, SASS/LESS 
-- 👀 Livestream I'm loving: [Get it Right in Black & White](https://www.youtube.com/playlist?list=PL9yYRbwpkyksegmB9HKX8YWP1DMZyZC9b) D3.js & Data Viz course with [Curran Kelleher](https://vizhub.com/blog/2021/02/20/new-livestream-series-get-it-right-in-black-and-white/)
+- 🛠️ I love to learn and have built projects with Java and JavaScript ecosystems. 
+- 📚 Currently perusing: Selenium, Cypress, Webpack, Linux 
+- 👀 Fun livestream: [Get it Right in Black & White](https://www.youtube.com/playlist?list=PL9yYRbwpkyksegmB9HKX8YWP1DMZyZC9b) D3.js & Data Viz course with [Curran Kelleher](https://vizhub.com/blog/2021/02/20/new-livestream-series-get-it-right-in-black-and-white/)
 - 💪🏻 Strengthening my Data Structure & Algorithm skills + Systems Design Fundamentals at [AlgoExpert](https://www.algoexpert.io/questions)  
 
 
