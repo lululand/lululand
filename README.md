@@ -1,9 +1,9 @@
 ## Hi 👋 I'm [Kirsten](https://lululand.github.io/a2lulu/) (she/her)
 
-- 🛠️ I love to learn new stuff and have built projects with Java and JavaScript ecosystems. 
-- 📚 Currently studying: Linux, Python, Ansible
-- 👀 Livestream for fun: [Get it Right in Black & White](https://www.youtube.com/playlist?list=PL9yYRbwpkyksegmB9HKX8YWP1DMZyZC9b) D3.js & Data Viz course with [Curran Kelleher](https://vizhub.com/blog/2021/02/20/new-livestream-series-get-it-right-in-black-and-white/)
-- 💪🏻 Strengthening my <!-- Data Structure & Algorithm skills + --> Systems Design Fundamentals at [AlgoExpert](https://www.algoexpert.io/questions)  
+- 📚 In my current role I work with Python and dip into Linux, Ansible, Docker 
+- 🛠️ I love to learn and have built projects with Python, Java, and JavaScript ecosystems. 
+- 💪🏻 Strengthening my Python skills at [RealPython.com](https://realpython.com/) <!-- Data Structure & Algorithm skills + --> & Systems Design Fundamentals at [AlgoExpert](https://www.algoexpert.io/questions)  
+<!-- - 👀 Livestream for fun: [Get it Right in Black & White](https://www.youtube.com/playlist?list=PL9yYRbwpkyksegmB9HKX8YWP1DMZyZC9b) D3.js & Data Viz course with [Curran Kelleher](https://vizhub.com/blog/2021/02/20/new-livestream-series-get-it-right-in-black-and-white/) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lululand&layout=compact)](https://github.com/lululand/github-readme-stats)
