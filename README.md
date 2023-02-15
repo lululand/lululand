@@ -1,6 +1,6 @@
 ## Hi 👋 I'm [Kirsten](https://lululand.github.io/a2lulu/) (she/her)
 
-- 📚 In my current role I work with Python and dip into Linux, Ansible, Docker 
+- 📚 In my current role I work with Python, Flask, Javascript and APIs, building enterprise networking automation tools 
 - 🛠️ I love to learn and have built projects with Python, Java, and JavaScript ecosystems. 
 - 💪🏻 Strengthening my Python skills at [RealPython.com](https://realpython.com/) <!-- Data Structure & Algorithm skills + --> & Systems Design Fundamentals at [AlgoExpert](https://www.algoexpert.io/questions)  
 <!-- - 👀 Livestream for fun: [Get it Right in Black & White](https://www.youtube.com/playlist?list=PL9yYRbwpkyksegmB9HKX8YWP1DMZyZC9b) D3.js & Data Viz course with [Curran Kelleher](https://vizhub.com/blog/2021/02/20/new-livestream-series-get-it-right-in-black-and-white/) -->
